@@ -1,7 +1,7 @@
 # Hello, I'm Yacine Zitouni 👋
 
-![Nodejs] (https://img.shields.io/badge/nodejs-Intermediate-yellow)
-![Reactjs] (https://img.shields.io/badge/reactjs-Intermediate-blue)
+![NodeJS] (https://img.shields.io/badge/nodejs-Intermediate-yellow)
+![React] (https://img.shields.io/badge/reactjs-Intermediate-blue)
 ![Bash](https://img.shields.io/badge/Bash-Intermediate-black)
 ![HTML](https://img.shields.io/badge/HTML-Expert-orange)
 ![CSS](https://img.shields.io/badge/CSS-Expert-blue)
