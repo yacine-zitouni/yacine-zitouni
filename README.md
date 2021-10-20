@@ -57,7 +57,9 @@ Computer Science student at [University of Science and technology](https://www.u
     </td>
   </tr>
 </table>
-                 
+     
+     <br>
+     
 
 ### 📬 Get in Touch
 
