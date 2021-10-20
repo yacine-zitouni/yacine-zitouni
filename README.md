@@ -65,7 +65,5 @@ Computer Science student at [University of Science and technology](https://www.u
 - LinkedIn: coming soon
 - E-mail: yac.zitouni1962@gmail.com
 
-### 📚 Looking for my Resume? E-Mail me!
-
 
 [github]: https://github.com/yacine-zitouni
