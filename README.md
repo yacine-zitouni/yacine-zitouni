@@ -1,6 +1,7 @@
 # Hello, I'm Yacine Zitouni 👋
 
 ![Bash](https://img.shields.io/badge/Bash-Intermediate-black)
+![SQL](https://img.shields.io/badge/SQL-Expert-orange)
 ![HTML](https://img.shields.io/badge/HTML-Expert-orange)
 ![CSS](https://img.shields.io/badge/CSS-Intermediate-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
@@ -63,7 +64,7 @@ Computer Science student at [University of Science and technology](https://www.u
 ### 📬 Get in Touch
 
 - GitHub: [github.com/yacine-zitouni][github]
-- LinkedIn: coming soon
+- LinkedIn: [https://www.linkedin.com/in/yacine-zitouni-039ba8221/][Linkedin]
 - E-mail: yac.zitouni1962@gmail.com
 
 
