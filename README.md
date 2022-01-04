@@ -64,7 +64,7 @@ Computer Science student at [University of Science and technology](https://www.u
 ### 📬 Get in Touch
 
 - GitHub: [github.com/yacine-zitouni][github]
-- LinkedIn: [https://www.linkedin.com/in/yacine-zitouni-039ba8221/]
+- LinkedIn: https://www.linkedin.com/in/yacine-zitouni-039ba8221/
 - E-mail: yac.zitouni1962@gmail.com
 
 
