@@ -2,8 +2,8 @@
 
 ![Bash](https://img.shields.io/badge/Bash-Intermediate-black)
 ![HTML](https://img.shields.io/badge/HTML-Expert-orange)
-![CSS](https://img.shields.io/badge/CSS-Expert-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
+![CSS](https://img.shields.io/badge/CSS-Intermediate-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
 
 Computer Science student at [University of Science and technology](https://www.usthb.dz/en). 
 
