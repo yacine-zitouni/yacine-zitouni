@@ -7,7 +7,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
 
 Computer Science student at [University of Science and technology](https://www.usthb.dz/en). 
--     (2024) Master's degree in **Artificial Intelligence** at USTHB
+- (2024) Master's degree in **Artificial Intelligence** at USTHB
 - 🔭 (2022) Bachelor's degree in **Computer Science** at USTHB 
 - 🌱 I’m currently learning **GraphQL** and **Typescript**
 - ⚙️ Mastering:  -python
