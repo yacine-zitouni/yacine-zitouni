@@ -6,7 +6,7 @@
 ![CSS](https://img.shields.io/badge/CSS-Intermediate-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
 
-Computer Science student at [University of Science and technology](https://www.usthb.dz/en). 
+Postgraduate Data Science Student at [University of Rouen Normandy](https://www.univ-rouen.fr/university-of-rouen-normandy/). 
 - (2024) Master's degree in **Artificial Intelligence** at USTHB
 - 🔭 (2022) Bachelor's degree in **Computer Science** at USTHB 
 - 🌱 I’m currently learning **GraphQL** and **Typescript**
