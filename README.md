@@ -5,6 +5,7 @@
 ![HTML](https://img.shields.io/badge/HTML-Expert-orange)
 ![CSS](https://img.shields.io/badge/CSS-Intermediate-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
+![python](https://img.shields.io/badge/python-advanced-green)
 
 Postgraduate Data Science Student at [University of Rouen Normandy](https://www.univ-rouen.fr/university-of-rouen-normandy/). 
 - (2024) Master's degree in **Artificial Intelligence** at USTHB
@@ -65,8 +66,8 @@ Postgraduate Data Science Student at [University of Rouen Normandy](https://www.
 ### 📬 Get in Touch
 
 - GitHub: [github.com/yacine-zitouni][github]
-- LinkedIn: https://www.linkedin.com/in/yacine-zitouni-039ba8221
-- E-mail: yac.zitouni1962@gmail.com
+- LinkedIn: https://www.linkedin.com/in/yacinezed/
+- E-mail: yacine.zitouni@univ-rouen.fr
 
 
 [github]: https://github.com/yacine-zitouni
